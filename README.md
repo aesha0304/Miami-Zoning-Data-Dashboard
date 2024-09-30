@@ -1,4 +1,4 @@
-                                                                                      Miami Zoning Data Dashboard
+#Miami-Zoning-Data-Dashboard
 This project processes and visualizes Miami zoning data from public meetings. It extracts important information such as meeting dates, chairperson details, zoning requests, and vote outcomes from JSON data, converts it into CSV format, and provides interactive visualizations using Dash and Plotly.
 
 Features
